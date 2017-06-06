@@ -9,4 +9,4 @@ function drawTree(size) {
   }
 }
 
-drawTree(1)
+drawTree(5)
